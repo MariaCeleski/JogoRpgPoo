@@ -1,0 +1,15 @@
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\JogoRpgPoo\bin\Debug\net6.0\JogoRpgPoo.exe
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\JogoRpgPoo\bin\Debug\net6.0\JogoRpgPoo.deps.json
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\JogoRpgPoo\bin\Debug\net6.0\JogoRpgPoo.runtimeconfig.json
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\JogoRpgPoo\bin\Debug\net6.0\JogoRpgPoo.dll
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\JogoRpgPoo\bin\Debug\net6.0\JogoRpgPoo.pdb
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\JogoRpgPoo\obj\Debug\net6.0\JogoRpgPoo.csproj.AssemblyReference.cache
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\JogoRpgPoo\obj\Debug\net6.0\JogoRpgPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\JogoRpgPoo\obj\Debug\net6.0\JogoRpgPoo.AssemblyInfoInputs.cache
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\JogoRpgPoo\obj\Debug\net6.0\JogoRpgPoo.AssemblyInfo.cs
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\JogoRpgPoo\obj\Debug\net6.0\JogoRpgPoo.csproj.CoreCompileInputs.cache
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\JogoRpgPoo\obj\Debug\net6.0\JogoRpgPoo.dll
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\JogoRpgPoo\obj\Debug\net6.0\refint\JogoRpgPoo.dll
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\JogoRpgPoo\obj\Debug\net6.0\JogoRpgPoo.pdb
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\JogoRpgPoo\obj\Debug\net6.0\JogoRpgPoo.genruntimeconfig.cache
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\JogoRpgPoo\obj\Debug\net6.0\ref\JogoRpgPoo.dll
