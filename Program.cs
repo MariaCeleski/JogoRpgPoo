@@ -18,9 +18,7 @@ namespace JogoRpgPoo
 
             Console.WriteLine(wizard.Attack(1));
             Console.WriteLine(wizard.Attack(7));
-            Console.WriteLine(wizardBlack.Attack(7));
-            Console.WriteLine(wizard.Attack(7));
-            Console.WriteLine(ninja.Attack(1));
+
 
         }
     }
