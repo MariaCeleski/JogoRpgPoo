@@ -12,5 +12,20 @@ namespace JogoRpgPoo.src.Entities
         {
             return this.Name + " Lançou Magia ";
         }
+
+        public string Attack(int Bonus)
+        {
+            if (Bonus > 6)
+            {
+                return this.Name + " Lançou Magia Super efetiva com bonus de " + Bonus;
+            }
+            else
+            {
+                return this.Name + " Lançou Magia com força fraca com bonus de " + Bonus;
+            }
+
+
+        }
+
     }
 }
