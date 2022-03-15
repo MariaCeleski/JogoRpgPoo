@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Tuca\\Nova pasta\\workspace\\Desafios Dio\\JogoRpgPoo\\JogoRpgPoo.csproj": {}
+    "C:\\Users\\Tuca\\Nova pasta\\workspace\\Desafios Dio\\JogoRpgPoo\\JogoRpgPoo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Tuca\\Nova pasta\\workspace\\Desafios Dio\\JogoRpgPoo\\JogoRpgPoo.csproj": {
+    "C:\\Users\\Tuca\\Nova pasta\\workspace\\Desafios Dio\\JogoRpgPoo\\JogoRpgPoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Tuca\\Nova pasta\\workspace\\Desafios Dio\\JogoRpgPoo\\JogoRpgPoo.csproj",
+        "projectUniqueName": "C:\\Users\\Tuca\\Nova pasta\\workspace\\Desafios Dio\\JogoRpgPoo\\JogoRpgPoo.csproj",
         "projectName": "JogoRpgPoo",
-        "projectPath": "c:\\Users\\Tuca\\Nova pasta\\workspace\\Desafios Dio\\JogoRpgPoo\\JogoRpgPoo.csproj",
+        "projectPath": "C:\\Users\\Tuca\\Nova pasta\\workspace\\Desafios Dio\\JogoRpgPoo\\JogoRpgPoo.csproj",
         "packagesPath": "C:\\Users\\Tuca\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Tuca\\Nova pasta\\workspace\\Desafios Dio\\JogoRpgPoo\\obj\\",
+        "outputPath": "C:\\Users\\Tuca\\Nova pasta\\workspace\\Desafios Dio\\JogoRpgPoo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tuca\\AppData\\Roaming\\NuGet\\NuGet.Config",
