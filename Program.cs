@@ -1,4 +1,7 @@
-﻿namespace JogoRpgPoo
+﻿using System;
+using JogoRpgPoo.src.Entities;
+
+namespace JogoRpgPoo
 {
 
     class Program
@@ -6,16 +9,24 @@
         static void Main(string[] args)
 
         {
-            string nome = "Arus";
-            int level = 12;
-            string tipoHeroi = "Guerreiro";
+            Arus hero = new Arus("Arus", 23, "Knight");
+            // hero.Name = "Arus";
+            // hero.Level = 2;
+            // hero.HeroType = "Knight";
 
-            string nome2 = "AWedge";
-            int level2 = 20;
-            string tipoHeroi2 = "Ninja";
+            Console.Write("");
 
-            Console.WriteLine(nome + " " + level + " " + tipoHeroi);
-            Console.WriteLine(nome2 + " " + level2 + " " + tipoHeroi2);
+            // string nome = "Arus";
+            // int level = 12;
+            // string tipoHeroi = "Guerreiro";
+
+            // string nome2 = "AWedge";
+            // int level2 = 20;
+            // string tipoHeroi2 = "Ninja";
+
+            // Console.WriteLine(nome + " " + level + " " + tipoHeroi);
+            // Console.WriteLine(nome2 + " " + level2 + " " + tipoHeroi2);
+
         }
     }
 
